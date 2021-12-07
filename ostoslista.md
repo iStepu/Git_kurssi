@@ -2,3 +2,4 @@
 - Smirnoff
 - Proteiini
 - Lihaa
+- Lisää alkoholia
