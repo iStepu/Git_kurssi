@@ -1,2 +1,3 @@
 - Coca cola
 - Smirnoff
+- Proteiini
